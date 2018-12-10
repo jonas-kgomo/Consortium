@@ -15,8 +15,9 @@ const colors = {
   lighter: '#373940', // light blue
   dark: '#282c34', // dark blue
   darker: '#20232a', // really dark blue
-  brand: '#61dafb', // electric blue
-  brandLight: '#bbeffd',
+  brand: '#fe6d90',// '#fde532',yellow
+  //'#61dafb', // electric blue 
+  brandLight:'#bbeffd',
   text: '#1a1a1a', // very dark grey / black substitute
   subtle: '#6d6d6d', // light grey for text
   subtleOnDark: '#999',
