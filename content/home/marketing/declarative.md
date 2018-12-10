@@ -1,8 +1,10 @@
 ---
-title: Declarative
+title: Open Source
 order: 0
 ---
 
-React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
 
-Declarative views make your code more predictable and easier to debug.
+
+Anyone can start a newsroom or add their existing publication, provided they honor Civil's ethical journalism standards.
+
+ There's no central authority or middleman present on Civil, it's 100% community-owned and community-governed.

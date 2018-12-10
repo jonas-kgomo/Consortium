@@ -51,7 +51,7 @@ class Home extends Component {
     return (
       <Layout location={location}>
         <TitleAndMetaTags
-          title="React &ndash; A JavaScript library for building user interfaces"
+          title="Consortium &ndash; Mesh"
           ogUrl={createOgUrl('index.html')}
         />
         <div css={{width: '100%'}}>
@@ -103,7 +103,7 @@ class Home extends Component {
                       color: colors.brand,
                       textAlign: 'center',
                       margin: 0,
-                      fontSize: 45,
+                      fontSize: 50,
                       letterSpacing: '0.01em',
                       [media.size('xsmall')]: {
                         fontSize: 30,
@@ -112,7 +112,7 @@ class Home extends Component {
                         fontSize: 60,
                       },
                     }}>
-                    React
+                    Consortium 
                   </h1>
                   <p
                     css={{
@@ -134,7 +134,7 @@ class Home extends Component {
                         fontSize: 30,
                       },
                     }}>
-                    A JavaScript library for building user interfaces
+                    A mega-journal for publishing articles on Ethereum
                   </p>
                   <Flex
                     valign="center"
@@ -154,7 +154,7 @@ class Home extends Component {
                     </CtaItem>
                     <CtaItem>
                       <ButtonLink to="/tutorial/tutorial.html" type="secondary">
-                        Take the Tutorial
+                        How it works
                       </ButtonLink>
                     </CtaItem>
                   </Flex>

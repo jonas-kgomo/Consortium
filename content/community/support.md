@@ -1,6 +1,6 @@
 ---
 id: support
-title: Where To Get Support
+title: Challenges 
 layout: community
 sectionid: community
 permalink: community/support.html
@@ -8,9 +8,20 @@ redirect_from:
   - "support.html"
 ---
 
-React has a community of millions of developers.
+## 
 
-On this page we've listed some React-related communities that you can be a part of; see the other pages in this section for additional online and in-person learning materials.
+- Traditional research publishing which depends on Journals.
+- Journal Rank (**impact factor**) as social impact measure is generic
+- Scientific research requires public trust & credibility.
+- Publication in high-ranking journals may distort the
+communication of scientific progress
+- 17010 researchers won't publish, referee or do editorial work
+- Restrictive access to knowledge is an obstacle to human progress.
+-Pricing Policies and control of copyright,
+example Elsevier: Cost of Knowledge
+-Redundant libraries
+-Scientific publishers are unnecessary mediators between the
+members of the scientific and academic community.
 
 ## Stack Overflow
 
