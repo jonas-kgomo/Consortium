@@ -84,7 +84,7 @@ class Home extends Component {
                     left: 0,
                     bottom: 0,
                     right: 0,
-                    backgroundImage: `url(${logoWhiteSvg})`,
+                   //backgroundImage: `url(${logoWhiteSvg})`,
                     backgroundRepeat: 'no-repeat',
                     backgroundPosition: '100% 100px',
                     backgroundSize: '50% auto',
@@ -112,7 +112,7 @@ class Home extends Component {
                         fontSize: 60,
                       },
                     }}>
-                    Consortium 
+                    ConSortium 
                   </h1>
                   <p
                     css={{
