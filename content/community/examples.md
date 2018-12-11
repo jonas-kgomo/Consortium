@@ -1,5 +1,5 @@
 ---
-id: examples
+id: Cost
 title: Cost Of Knowledge
 layout: community
 sectionid: community

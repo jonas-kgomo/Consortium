@@ -18,13 +18,13 @@
       href: /tutorial/tutorial.html#setup-for-the-tutorial
       forceInternal: true
       subitems:
-        - id: setup-option-1-write-code-in-the-browser
-          title: "Option 1: Write Code in the Browser"
-          href: /tutorial/tutorial.html#setup-option-1-write-code-in-the-browser
+        - id: consort-1-storage
+          title: "Consort 1: Storage"
+          href: /tutorial/tutorial.html#consort-1-storage
           forceInternal: true
-        - id: setup-option-2-local-development-environment
-          title: "Option 2: Local Development Environment"
-          href: /tutorial/tutorial.html#setup-option-2-local-development-environment
+        - id: consort-2-grants
+          title: "Consort 2: Grants"
+          href: /tutorial/tutorial.html#consort-2-grants
           forceInternal: true
         - id: help-im-stuck
           title: Help, I'm Stuck!

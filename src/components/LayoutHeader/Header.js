@@ -86,7 +86,7 @@ const Header = ({location}: {location: Location}) => (
                 border: 0,
               },
             }}>
-            React
+            ConSortium
           </span>
         </Link>
 
@@ -128,12 +128,7 @@ const Header = ({location}: {location: Location}) => (
             title="Community"
             to="/community/support.html"
           />
-          <HeaderLink
-            isActive={location.pathname.includes('/blog')}
-            title="Blog"
-            to="/blog/"
-          />
-        </nav>
+          </nav>
 
         <DocSearch />
 

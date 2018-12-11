@@ -1,12 +1,12 @@
 ---
 id: courses
-title: Courses
+title: Efforts
 layout: community
 sectionid: community
 permalink: community/courses.html
 ---
 
-## Free Courses
+## Plan S
 
 - [Codecademy: React 101](https://www.codecademy.com/learn/react-101) - Codecademy's introductory course for React.
 
@@ -22,7 +22,8 @@ permalink: community/courses.html
 
 - [Free React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - Recordings from three days of a free online React bootcamp.
 
-## Paid Courses
+
+## GitCoin
 
 - [Egghead.io](https://egghead.io/browse/frameworks/react) - Short instructional videos on React and many other topics.
 
