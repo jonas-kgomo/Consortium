@@ -351,12 +351,12 @@ White,yellow papers (pre-prints),
 -   A **Yellow paper** is a document containing research that has not yet been formally accepted or published in an academic journal. It is synonymous to the more widely used term preprint.
 - **black** and **grey** papers
 
-> Distilled Papers
+## Distilled Papers
 
     Type-set papers
 
 
-### Lifting State Up
+
 
 Currently, each Square component maintains the game's state. To check for a winner, we'll maintain the value of each of the 9 squares in one location.
 

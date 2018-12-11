@@ -1,23 +1,26 @@
 ---
 id: examples
-title: Example Projects
+title: Cost Of Knowledge
 layout: community
 sectionid: community
 permalink: community/examples.html
 ---
 
-There are many example projects created by the React community. Feel free to add your own project. If you add a project, please commit to keeping it up to date with the latest versions of React.
+The Cost of Knowledge is a place for researchers to publicly boycott Elsevier. It was built as a response to Tim Gowers’s call to action, in which he states:
 
+    I am not only going to refuse to have anything to do with Elsevier journals from now on, but I am saying so publicly. I am by no means the first person to do this, but the more of us there are, the more socially acceptable it becomes, and that is my main reason for writing this post.
 
-* **[Calculator](https://github.com/ahfarmer/calculator)** Implementation of the iOS calculator built in React
-* **[Emoji Search](https://github.com/ahfarmer/emoji-search)** Simple React app for searching emoji
-* **[Github Battle App](https://github.com/ReactTraining/react-fundamentals/tree/hosting)** Battle two Github users and see the most popular Github projects for any language.
-* **[React Powered Hacker News Client](https://github.com/insin/react-hn)** A React & react-router-powered implementation of Hacker News using its Firebase API.
-* **[Pokedex](https://github.com/alik0211/pokedex)** The list of Pokémon with live search
-* **[Shopping Cart](https://github.com/jeffersonRibeiro/react-shopping-cart)** Simple ecommerce cart application built using React 
-* **[Progressive Web Tetris](https://github.com/skidding/flatris)** Besides a beautiful, mobile-friendly implementation of Tetris, this project is a playground for integrating and experimenting with web technologies.
-* **[Product Comparison Page](https://github.com/Rhymond/product-compare-react)** Simple Product Compare page built in React
-* **[Hacker News Clone React/GraphQL](https://github.com/clintonwoo/hackernews-react-graphql)** Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
-* **[Bitcoin Price Index](https://github.com/mrkjlchvz/bitcoin-price-index)** Simple bitcoin price index data from CoinDesk API.
-* **[Builder Book](https://github.com/builderbook/builderbook)** Open source web app to write and host documentation or sell books. Built with React, Material-UI, Next, Express, Mongoose, MongoDB.
-* **[GFonts Space](https://github.com/pankajladhar/GFontsSpace)** A space which allows user to play with Google fonts. Built with React, Redux and React-Router.
+    It occurs to me that it might help if there were a website somewhere, where mathematicians who have decided not to contribute in any way to Elsevier journals could sign their names electronically. I think that some people would be encouraged to take a stand if they could see that many others were already doing so, and that it would be a good way of making that stand public. Perhaps such a site already exists, in which case I’d like to hear about it and add my name. If it doesn’t, it should be pretty easy to set up, but way beyond my competence I’m afraid. Is there anyone out there who feels like doing it?
+
+Since its launch on January 22, 2012, the boycott has gained extraordinary momentum and has expanded well beyond the initial audience of mathematicians and even beyond the world of academia into mainstream media. Thank you to everyone who has participated in the boycott in any form.
+Elsevier
+http://thecostofknowledge.com/
+17308 Researchers Taking a Stand. See the list
+
+Academics have protested against Elsevier's business practices for years with little effect. These are some of their objections:
+
+    They charge exorbitantly high prices for subscriptions to individual journals.
+    In the light of these high prices, the only realistic option for many libraries is to agree to buy very large "bundles", which will include many journals that those libraries do not actually want. Elsevier thus makes huge profits by exploiting the fact that some of their journals are essential.
+    They support measures such as SOPA, PIPA and the Research Works Act, that aim to restrict the free exchange of information.
+
+The key to all these issues is the right of authors to achieve easily-accessible distribution of their work. If you would like to declare publicly that you will not support any Elsevier journal unless they radically change how they operate, then you can do so by filling in your details on this page.

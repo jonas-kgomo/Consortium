@@ -61,8 +61,8 @@
       forceInternal: true
       subitems:
         - id: lifting-state-up
-          title: Lifting State Up
-          href: /tutorial/tutorial.html#lifting-state-up
+          title: Distilled
+          href: /tutorial/tutorial.html#distilled
           forceInternal: true
         - id: why-immutability-is-important
           title: Why Immutability Is Important
@@ -90,7 +90,7 @@
           href: /tutorial/tutorial.html#storing-a-history-of-moves
           forceInternal: true
         - id: lifting-state-up-again
-          title: Lifting State Up, Again
+          title: Distilled, Again
           href: /tutorial/tutorial.html#lifting-state-up-again
           forceInternal: true
         - id: showing-the-past-moves
