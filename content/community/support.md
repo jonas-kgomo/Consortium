@@ -11,7 +11,7 @@ redirect_from:
 ## 
 
 - Traditional research publishing which depends on Journals.
-- Journal Rank (**impact factor**) as social impact measure is generic
+- Journal Rank (**impact factor**) as a social impact measure is generic
 - Scientific research requires public trust & credibility.
 - Publication in high-ranking journals may distort the
 communication of scientific progress

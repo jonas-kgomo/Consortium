@@ -55,9 +55,9 @@
           title: Developer Tools
           href: /tutorial/tutorial.html#developer-tools
           forceInternal: true
-    - id: completing-the-game
-      title: Completing the Game
-      href: /tutorial/tutorial.html#completing-the-game
+    - id: colored-papers
+      title: Colored Papers
+      href: /tutorial/tutorial.html#colored-papers
       forceInternal: true
       subitems:
         - id: lifting-state-up

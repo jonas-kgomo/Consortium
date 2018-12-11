@@ -26,7 +26,7 @@ The tutorial is divided into several sections:
 
 * [Setup for the Tutorial](#setup-for-the-tutorial) will give you **a starting point** to follow the tutorial.
 * [Overview](#overview) will teach you **the fundamentals** of React: components, props, and state.
-* [Completing the Game](#completing-the-game) will teach you **the most common techniques** in React development.
+* [Colored Papers](#colored-papers) will teach you **the most common techniques** in React development.
 * [Adding Time Travel](#adding-time-travel) will give you **a deeper insight** into the unique strengths of React.
 
 You don't have to complete all of the sections at once to get the value out of this tutorial. Try to get as far as you can -- even if it's one or two sections.
@@ -342,9 +342,19 @@ After installing React DevTools, you can right-click on any element on the page,
 3. Click "Change View" and then choose "Debug mode".
 4. In the new tab that opens, the devtools should now have a React tab.
 
-## Completing the Game
+## Colored Papers
 
-We now have the basic building blocks for our tic-tac-toe game. To have a complete game, we now need to alternate placing "X"s and "O"s on the board, and we need a way to determine a winner.
+> Papers tha are diffused into different levels of content and quality
+
+White,yellow papers (pre-prints), 
+-   A **White paper** is authoritative reports that inform readers in short to understand complex issues, solve problem and make right decision.
+-   A **Yellow paper** is a document containing research that has not yet been formally accepted or published in an academic journal. It is synonymous to the more widely used term preprint.
+- **black** and **grey** papers
+
+> Distilled Papers
+
+    Type-set papers
+
 
 ### Lifting State Up
 
@@ -772,7 +782,7 @@ We can now change the Board's `handleClick` function to return early by ignoring
 
 Congratulations! You now have a working tic-tac-toe game. And you've just learned the basics of React too. So *you're* probably the real winner here.
 
-## Adding Time Travel
+## K-theory Journal
 
 As a final exercise, let's make it possible to "go back in time" to the previous moves in the game.
 
