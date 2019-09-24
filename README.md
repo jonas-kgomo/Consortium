@@ -2,10 +2,9 @@
 
 # ConSortium :  
 
-> A peer-to-peer publishing repository for mega-journals that decentralised.
+##  A peer-to-peer publishing repository for mega-journals that are decentralised.
  
 
-> A platform that allows researchers to open-journals and community based journals
 </div>
 
 ![](https://i.imgur.com/oYpB2qn.png)
@@ -13,6 +12,7 @@
 
 [Academic Publishing solutions](https://medium.com/crypto3conomics/blockchain-solutions-for-scientific-publishing-ef4b4e79ae2)
 
+> A platform that allows researchers to open-journals and community based journals
 
 
 
@@ -24,8 +24,7 @@
 2. Fair 
 3. No paywall
 
-### Challenges
-Rapport
+### Challenges 
 
 - Traditional research publishing which depends on Journals.
 -   Journal Rank (impact factor) as a social impact measure is generic
@@ -37,11 +36,11 @@ Rapport
 -   Scientific publishers are unnecessary mediators between the members of the scientific and academic community.
 -   Pricing Policies and control of copyright, example - Cost of Knowledge
 
-## The Solution
+### The Solution
 We have topics in both pure research and applied research. The Foundation as well as the larger Ethereum community seek help on both. Typical outputs from researchers are: peer-reviewed academic papers, technical reports, and/or implementations (prototypes as well as production-ready).
 
 
-## Efforts
+### Efforts
 - Unitary Fund http://unitary.fund/
 Plan S
 - https://eu-life.eu/sites/default/files/EULIFE_ReactsPlanS_Nov2018_FINAL_0.pdf
