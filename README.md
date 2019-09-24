@@ -13,8 +13,7 @@
 
 [Academic Publishing solutions](https://medium.com/crypto3conomics/blockchain-solutions-for-scientific-publishing-ef4b4e79ae2)
 
----
-:::info
+
 
 
 
@@ -24,12 +23,7 @@
 1. Transparency 
 2. Fair 
 3. No paywall
-:::
 
-
-
-
-:::info 
 ### Challenges
 Rapport
 
@@ -42,27 +36,26 @@ Rapport
 -   Redundant libraries
 -   Scientific publishers are unnecessary mediators between the members of the scientific and academic community.
 -   Pricing Policies and control of copyright, example - Cost of Knowledge
-:::
 
-
-:::info
 ## The Solution
 We have topics in both pure research and applied research. The Foundation as well as the larger Ethereum community seek help on both. Typical outputs from researchers are: peer-reviewed academic papers, technical reports, and/or implementations (prototypes as well as production-ready).
-:::
 
-:::danger
+
 ## Efforts
 - Unitary Fund http://unitary.fund/
 Plan S
 - https://eu-life.eu/sites/default/files/EULIFE_ReactsPlanS_Nov2018_FINAL_0.pdf
 https://forbetterscience.com/2018/09/11/response-to-plan-s-from-academic-researchers-unethical-too-risky/
 - https://globalyoungacademy.net/wp-content/uploads/2018/10/YA-Statement-on-Plan-S-FINAL.pdf
-Sci-Hub 
-Aaron Swaz
+- Sci-Hub 
+- Aaron Swaz
 
-:::
+## Colored-Papers
 
-:::warning
+white,yellow papers (pre-prints), black and grey papers
+    -   A **White paper** is authoritative reports that inform readers in short to understand complex issues, solve problem and make right decision.
+    -   A **Yellow paper** is a document containing research that has not yet been formally accepted or published in an academic journal. It is synonymous to the more widely used term preprint.
+
 
 
 ## pledges, boycotts, and petitions
@@ -89,7 +82,8 @@ Academics have protested against Elsevier's business practices for years with li
 The key to all these issues is the right of authors to achieve easily-accessible distribution of their work. If you would like to declare publicly that you will not support any Elsevier journal unless they radically change how they operate, then you can do so by filling in your details on this page.
 
 More information: 
-:::
+
+
 
 ## KVG : Knowledge Validation Graph
 
@@ -106,13 +100,7 @@ More information:
 - 
 ## Elservier and the academic pay-walled journals
 
-:::info
-## Colored-Papers
-:::
 
-white,yellow papers (pre-prints), black and grey papers
-    -   A **White paper** is authoritative reports that inform readers in short to understand complex issues, solve problem and make right decision.
-    -   A **Yellow paper** is a document containing research that has not yet been formally accepted or published in an academic journal. It is synonymous to the more widely used term preprint.
 
 
 ## Corum
